@@ -19,7 +19,7 @@ This starter kit provides a foundation for creating multipage websites with cust
 1. **Clone the Repository**:
 
 ```bash
-git clone "repourl"
+git clone https://github.com/PSkinnerTech/Arweave-Custom-HashRouting.git
 ```
 
 2. **Navigate to the Project Directory**:
@@ -48,11 +48,10 @@ npm run build
 ```bash
 arkb deploy dist --use-bundler https://node2.bundlr.network --tag-name DEPLOY --tag-value Your-MultiPage-AppName --auto-confirm
 ```
+_**Note:** Replace `Your-MultiPage-AppName` with the name of your multipage application._
 
 An Arweave URL will be printed when the deployment is successful. It may take up to 30 seconds for the content to publish to the link, so please be patient.
 
 You're all set! Congrats! 
 
 HMU if you have questions. [@PSkinnerTech](https://x.com/PSkinnerTech)
-
-# Arweave-Custom-HashRouting
