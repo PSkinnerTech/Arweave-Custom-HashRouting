@@ -14,6 +14,22 @@ This starter kit provides a foundation for creating multipage websites with cust
 - Customize the page(s) however you want, just keep the entire build under 100kb. (Run `npm run build` to see build size)
 - No $AR token or even an Arweave wallet is required as long as you keep the build under 100kb.
 
+## Pros & Cons
+
+### Pros:
+
+- Extremely simple to use and implement.
+- No need to use any additional packages like tinro or Reach Router.
+- Very easy to update the website with basic text-based content.
+- Very easy to update the CSS.
+- Using basic Javascript and Svelte.
+
+### Cons:
+
+- For free deployment, you need to keep the build under 100kb, which restricts the amount of content and styling you can deploy.
+- This style of hashrouting may be difficult to manage for those unfamiliar with it.
+- Many may find editing the content beyond the basic text-based content to be difficult.
+
 ## Usage
 
 1. **Clone the Repository**:
